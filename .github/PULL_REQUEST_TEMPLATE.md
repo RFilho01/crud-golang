@@ -1,40 +1,18 @@
-## What type of PR is this? (check all applicable)
+## Qual o objetivo desse PR?
 
+- [ ] 🤖 Refactor
 - [ ] 🍕 Feature
-- [ ] 🐛 Bug Fix
-- [ ] 📝 Documentation Update
-- [ ] 🎨 Style
-- [ ] 🧑‍💻 Code Refactor
-- [ ] 🔥 Performance Improvements
-- [ ] ✅ Test
-- [ ] 🤖 Build
-- [ ] 🔁 CI
+- [ ] 🦎 Bugfix
+- [ ] 🔥 Melhorias na Performance
+- [ ] 📔 Atualização relacionada a Documentação
 
-## Description
+## Descrição
 
-<!-- 
-Please do not leave this blank 
-This PR [adds/removes/fixes/replaces] the [feature/bug/etc]. 
--->
+## Tickets Relacionados (Jira) ou Documentação
 
-## Related Tickets & Documents
-<!-- 
-Please use this format link issue numbers: Fixes #123
-https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue#linking-a-pull-request-to-an-issue-using-a-keyword 
--->
+## Screenshots ou Gravações
 
-## Mobile & Desktop Screenshots/Recordings
+## Documentação
 
-<!-- Visual changes require screenshots -->
-
-
-## Added tests?
-
-- [ ] 👍 yes
-- [ ] 🙅 no, because they aren't needed
-- [ ] 🙋 no, because I need help
-
-## Added to documentation?
-
-- [ ] 📜 README.md
+- [ ] 📑 README.md
 - [ ] 📓 Confluence
